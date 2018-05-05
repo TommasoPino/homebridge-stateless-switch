@@ -1,0 +1,33 @@
+{
+  "name": "homebridge-stateless-switch",
+  "description": "Add stateless accesory",
+  "version": "0.0.1",
+  "author": {
+    "name": "Tommaso Pino"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:TommasoPino/homebridge-stateless-switch.git"
+  },
+  "bugs": {
+    "url": "https://github.com/TommasoPino/homebridge-stateless-switch/issues"
+  },
+  "license": "MIT",
+  "engines": {
+    "homebridge": ">=0.2.0",
+    "node": ">=0.12.0"
+  },
+  "deprecated": false,
+  "devDependencies": {
+    "chai": "^3.4.1",
+    "chai-things": "^0.2.0",
+    "hap-nodejs": "^0.4.27"
+  },
+  "dependencies": {
+    "request": "^2.65.0"
+  },
+  "keywords": [
+    "homebridge-plugin"
+  ],
+  "preferGlobal": true
+}
