@@ -2,6 +2,10 @@
 This is a plugin for homebridge.
 This is a part of a bigger project
 
+## Installation
+`sudo npm install -g homebridge-stateless-switch`
+
+## Installation
 To use it just use a cofiguration like this:
 
 ```
@@ -26,5 +30,3 @@ To use it just use a cofiguration like this:
   "platforms": []
 }
 ```
-
-
