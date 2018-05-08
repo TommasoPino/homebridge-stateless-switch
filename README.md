@@ -24,7 +24,7 @@ To use it just use a cofiguration like this:
       "accessory": "StatelessSwitch",
       "name": "Button Name",
       "onUrl": "UrltoUse"
-    },
+    }
   ],
 
   "platforms": []
